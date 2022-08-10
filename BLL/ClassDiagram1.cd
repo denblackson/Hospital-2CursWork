@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL.Models.MAppoinment">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAACAA=</HashCode>
+      <FileName>Models\MAppoinment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Models.MDoctor">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MDoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Models.MPatient">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\MPatient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Models.MUser">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.AppoinmentOperations">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQAAAAAAAAAAAAAQAAAAZAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppoinmentOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.DoctorOperations">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAACAAAAAAAAAAAAAACIIAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DoctorOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Init">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Init.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.PatientOperations">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAQAAAAAAAAAAAAAAAAEAMAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>PatientOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.UserOperations">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAIAAAAAAAAAAAAAAAAAAAIAAAiAAAAAIAAAAA=</HashCode>
+      <FileName>UserOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
